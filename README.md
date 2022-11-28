@@ -1,3 +1,3 @@
 # demo_repo
 
-Adding some description for the first commit.
+Adding some description for the first commit!
